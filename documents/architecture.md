@@ -11,9 +11,9 @@
 ##### Главная страница и каталог:
 ![](https://github.com/supAer0/lab3/blob/master/documents/img/2-catalog.png "Catalog")
 ##### Административная панель:
-![](https://yuml.me/cd706026 "AdminPage")
+![](https://github.com/supAer0/lab3/blob/master/documents/img/mockup1.png "AdminPage")
 ##### Административная панель (добавление):
-![](https://yuml.me/cd706026 "AdminPage")
+![](https://github.com/supAer0/lab3/blob/master/documents/img/mockup2.png "AdminPage")
 
 
 
