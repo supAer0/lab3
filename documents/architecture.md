@@ -15,5 +15,8 @@
 ##### Административная панель (добавление):
 ![](https://github.com/supAer0/lab3/blob/master/documents/img/mockup2.png "AdminPage")
 
+### ER-диаграмма
+![](https://github.com/supAer0/lab3/blob/master/documents/img/Er.png "ER")
 
-
+### Диаграмма классов
+![](https://github.com/supAer0/lab3/blob/master/documents/img/Class.png "Диаграмма классов")
